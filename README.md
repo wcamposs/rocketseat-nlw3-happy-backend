@@ -9,18 +9,16 @@ If you're using Yarn, install the dependencies using the following command:
 ```
 yarn install
 ```
-Then run apllication using:
-```
-yarn dev
-```
 If you're using Npm, install the dependencies using the following command:
 ```
 npm install
 ```
-Then run application using:
+
+Then run apllication using:
 ```
-npm start
+yarn dev
 ```
+
 ### Libraries used:
 - express
 - express-async-errors
