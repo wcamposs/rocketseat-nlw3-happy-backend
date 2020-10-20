@@ -11,7 +11,7 @@ yarn install
 ```
 Then run apllication using:
 ```
-yarn start
+yarn dev
 ```
 If you're using Npm, install the dependencies using the following command:
 ```
